@@ -1,0 +1,43 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&display=swap');
+
+
+h1{
+    color: blue;
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif';
+
+}
+
+h1:hover{
+    color: bisque;
+    cursor:pointer;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    box-shadow: 10px 10px 12px -2px;
+
+    border-radius: 50%;
+}
+
+
+.divprincipale{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+
+.divhome{
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+.h2divhome{
+    margin-left: 3rem;
+}
